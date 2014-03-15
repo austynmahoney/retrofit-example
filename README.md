@@ -10,3 +10,6 @@ Created for my session at Utah Code Camp 2014.
 ```
 $ ./gradlew build
 ```
+
+
+Slides: http://bit.ly/1eDiKu3 
