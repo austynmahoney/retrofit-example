@@ -8,5 +8,5 @@ public class Constants {
 
     public static final String HTTP_HEADER_AUTHORIZATION = "Authorization";
     public static final String HTTP_HEADER_AUTHORIZATION_IDENTIFIER = "token ";
-    public static final String GITHUB_ACCESS_TOKEN = "1a39dd2bd3abfa8794a112d0284a12b2511de370";
+    public static final String GITHUB_ACCESS_TOKEN = "AUTH_TOKEN_GOES_HERE";
 }
